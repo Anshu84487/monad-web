@@ -1,7 +1,5 @@
 // hooks/useMonadData.ts
-// hooks/useMonadData.ts
-
-// Change this line:
+import { useSWR } from 'swr'; // THIS IS CORRECT!// Change this line:
 // import useSWR from 'swr'; 
 
 // TO THIS:
